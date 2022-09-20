@@ -19,9 +19,24 @@ The course discusses principles, methodologies, and techniques for mining massiv
   <img src="Media/final.png" width=49% /> 
 </p>
 
-### Covid-19 data analysis 
-### Olympic Medals analysis
+In the notebook, I tackled four different tasks.
+
+### Covid-19 data analysis. 
+It includes visualizing the daily Covid-19 cases in Ohio over time that gives us a high-level perspective of the infection rate and the so-called "waves". There are further in-depth analyses of hospitalization, vaccination, unemployment, and school data.
+
+### Communities Identification using Modularity. 
+Identifing teams of 3 members, competing together for more then 10 competitions in Kaggle competiotions.
+For each community, multiple centrality measures where calculated:
+degree_centrality - Average degree, Most central node
+pagerank - Average pagerank, Most central node
+closeness_centrality - Average score, Most central node
+
 ### Forums Topic Models
+
+
+### Olympic Medals analysis - Predicting Sucess and extra ordinary achievement.
+In this section a model is trained to predict an athlete achievement based on the physical features, sport type, and the athlete's country. If a sufficiently trained model predicts that an athlete would loss, and yet the athlete wins a gold medal, this is an extra ordinary achievement. This holds to the other direction as well. If a trained model predicts that the athlete would win a gold medal, and the athlete losses all medals, then this is a disappointing loss.
+
 
 ---
 ## Assignments
