@@ -5,7 +5,7 @@
 </p>
 
 
-This repository includes all tasks notebooks, final project, and final exam work created as part of the Ben-Gurion University of the Negev course "The Art of Analyzing Big Data - The Data Scientist’s Toolbox". 
+This repository includes all tasks' notebooks, final project, and final exam work created as part of the Ben-Gurion University of the Negev course "The Art of Analyzing Big Data - The Data Scientist’s Toolbox". 
 
 The course discusses principles, methodologies, and techniques for mining massive datasets. In this course, we learned how to perform common data mining tasks, such as classification, clustering analysis, and recommendation on large datasets using the principles of parallel and distributed processing such as Map-Reduce. During the course, I had the opportunity to use state-of-the-art technologies for massive data mining. Each of the tasks tackles different machine learning and big data issues. [Course web site](https://data4goodlab.github.io/lectures.html).
 
