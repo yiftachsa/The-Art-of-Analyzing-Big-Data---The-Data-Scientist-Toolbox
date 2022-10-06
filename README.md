@@ -79,12 +79,6 @@ In this section a model is trained to predict an athlete achievement based on th
 [Assignment 10](Assignments/Data_Sceince_HW_10.ipynb) - pySpark, heatmap visualizations and folium.
 
 
-<!--- 
-<p align="left">
-<img src="Media/ass2.png" width="300" height="280">
-</p>
---->
-
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
